@@ -80,3 +80,5 @@ Integrate AI-powered recommendations for personalized product suggestions.
 Enhance testing coverage with tools like Jest or Cypress.
 Get Involved
 Explore the project on GitHub: shagithubrit/Major_project_2025. Contributions, feedback, or inquiries are welcome! Contact the developer for collaboration or to learn more about the implementation.
+
+so that is all...
